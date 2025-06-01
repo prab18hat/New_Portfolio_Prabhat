@@ -8,6 +8,14 @@
   border: 1px solid $lightBorder1;
 }
 
+.white-background {
+  background-color: white !important;
+}
+
+.black-text {
+  color: #000000 !important;
+}
+
 .experience-card-dark {
   position: relative;
   background-color: $darkBackground;
