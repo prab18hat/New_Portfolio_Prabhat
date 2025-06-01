@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/New_Portfolio_Prabhat/static/css/main.30548d11.css",
+    "main.js": "/New_Portfolio_Prabhat/static/js/main.1b89d4a2.js",
+    "static/css/64.bba8fa55.chunk.css": "/New_Portfolio_Prabhat/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/New_Portfolio_Prabhat/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/New_Portfolio_Prabhat/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/New_Portfolio_Prabhat/static/js/769.bda0d7b7.chunk.js",
+    "static/media/resume.pdf": "/New_Portfolio_Prabhat/static/media/resume.add40468f61c597cdd9a.pdf",
+    "static/media/qubitx-presentation.jpg": "/New_Portfolio_Prabhat/static/media/qubitx-presentation.3234166a76aac03cbc01.jpg",
+    "static/media/codefest-award.jpg": "/New_Portfolio_Prabhat/static/media/codefest-award.ca904deb426df7849bb5.jpg",
+    "static/media/Montserrat-Regular.ttf": "/New_Portfolio_Prabhat/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/New_Portfolio_Prabhat/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/lawjano-logo.png": "/New_Portfolio_Prabhat/static/media/lawjano-logo.48bc6b5d9d89e601244c.png",
+    "static/media/ldtalent-logo.png": "/New_Portfolio_Prabhat/static/media/ldtalent-logo.b4f8d979f0f0ce432d81.png",
+    "static/media/manOnTable.svg": "/New_Portfolio_Prabhat/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/thea-logo.PNG": "/New_Portfolio_Prabhat/static/media/thea-logo.4ee5bd068955060837d0.PNG",
+    "static/media/contactMailDark.svg": "/New_Portfolio_Prabhat/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/New_Portfolio_Prabhat/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/logo_small.png": "/New_Portfolio_Prabhat/static/media/logo_small.cbae0e8487eec2d12792.png",
+    "static/media/ssb-badge.png": "/New_Portfolio_Prabhat/static/media/ssb-badge.34fb6786f5fb6d6b9c42.png",
+    "static/media/skill.svg": "/New_Portfolio_Prabhat/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/New_Portfolio_Prabhat/index.html",
+    "static/media/talksCardBack.svg": "/New_Portfolio_Prabhat/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.30548d11.css.map": "/New_Portfolio_Prabhat/static/css/main.30548d11.css.map",
+    "main.1b89d4a2.js.map": "/New_Portfolio_Prabhat/static/js/main.1b89d4a2.js.map",
+    "64.bba8fa55.chunk.css.map": "/New_Portfolio_Prabhat/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/New_Portfolio_Prabhat/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/New_Portfolio_Prabhat/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/New_Portfolio_Prabhat/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30548d11.css",
+    "static/js/main.1b89d4a2.js"
+  ]
+}
